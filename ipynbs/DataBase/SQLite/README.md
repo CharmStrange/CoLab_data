@@ -1,9 +1,11 @@
 # Python & Sqlite3 
 파이썬으로 SQLite3를 사용하기 위한 설명서, SQLite3는 가벼운 로컬 환경에서 사용하기 좋다.
 
-```Python
-import sqlite3
-```
+> ### [File](Pysqlite3.ipynb)
+
+> ```Python
+> import sqlite3
+> ```
 
 > `sqlite3.connect()` : 이 메소드는 데이터베이스 파일 이름을 인수로 받아 연결을 설정하고, 연결 객체를 반환한다.
 > ```python
