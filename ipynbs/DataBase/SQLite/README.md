@@ -1,7 +1,7 @@
 # Python & Sqlite3 
 파이썬으로 SQLite3를 사용하기 위한 설명서, SQLite3는 가벼운 로컬 환경에서 사용하기 좋다.
 
-> ### [File](Pysqlite3.ipynb)
+> ### [File](PySqlite3.ipynb)
 
 > ```Python
 > import sqlite3
